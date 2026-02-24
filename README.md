@@ -77,6 +77,12 @@ DAILYTRACKER/
 │   ├── components/
 │   ├── pages/
 │   ├── utils/
+
+
+git clone https://github.com/your-username/dailytracker.git
+cd dailytracker
+npm install
+npm run dev
 │   ├── styles/
 │   └── App.js
 ├── public/
